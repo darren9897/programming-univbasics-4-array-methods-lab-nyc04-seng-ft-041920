@@ -4,8 +4,8 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-  new = array.sorted
-  return
+  retun array.sorted
+  
 
 end
 
